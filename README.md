@@ -1,3 +1,5 @@
+React Native v 0.64.2
+React Navigation v5
 Native base v 2.15.2 is used for ui.
 Redux thunk v 2.3.0 is used.
 Action,Reducer,Store is created inside the App folder that handle the App working flow.
